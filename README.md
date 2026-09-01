@@ -11,7 +11,6 @@ dei dati: l'app non sostituisce il file Excel, lo **legge** e lo rende
 interrogabile.
 
 - Codice sorgente app: [`preventivatore/`](preventivatore/)
-- Demo statica da validare: [`preventivo-demo.html`](preventivo-demo.html) (doppio clic, nessuna installazione)
 - Modello dati di dettaglio: [`docs/DATA-MODEL.md`](docs/DATA-MODEL.md)
 
 ---
@@ -173,8 +172,7 @@ GitHub + GitHub Actions                     → CI: rigenera il seed, lint, buil
   parametri di perimetro) stanno su **Supabase**.
 - Il **motore di preventivo è una funzione pura** in
   `src/lib/pricing.ts` (nessuna dipendenza da React o Supabase): stesso
-  codice usato dai test e — in versione JS equivalente — dalla demo
-  statica.
+  codice usato dai test.
 
 ### Flusso dati
 
@@ -249,17 +247,23 @@ Aggiornare i dati quando esce una nuova revisione del file Excel:
 
 ```bash
 python scripts/etl.py --xlsx "../LISTINO componenti tracker TTS 1303 - rev.28 (...).xlsx"
-git add preventivatore/src/data preventivatore/supabase/seed.sql preventivo-demo-data.js
+git add preventivatore/src/data preventivatore/supabase/seed.sql
 git commit -m "dati: allineamento a rev.28"
 ```
 
-## 11. Validare l'idea adesso
+## 11. Numeri di riferimento
 
-Aprire [`preventivo-demo.html`](preventivo-demo.html) con un doppio clic
-(usa `preventivo-demo-data.js`, entrambi rigenerati dall'ETL). Mostra il
-preventivo del progetto di esempio a 69 tracker con la ripartizione di
-affidabilità e le prime 20 voci per impatto: è il comportamento della
-schermata «Preventivo» dell'app, senza build.
+Progetto di esempio 4×12 + 1×18 + 20×20 + 5×22 + 34×36 + 5×40 = 69 tracker
+(rev.27, prezzi listino non ancora compilati):
+
+```
+materiale ................ 162.494,40 €
+quadri motore (69 × 170) .  11.730,00 €
+COSTO TOTALE ............. 174.224,40 €
+affidabilità: alta 16,2% · media 78,8% · bassa 5,0% · nulla 0,0%
+```
+
+`python preventivatore/scripts/etl.py` ristampa questi numeri a ogni esecuzione.
 
 ---
 

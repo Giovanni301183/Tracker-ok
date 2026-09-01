@@ -37,7 +37,6 @@ più alta** presente nel repo (o `--xlsx <file>`) e scrive:
 | `preventivatore/src/data/tracker_configs.json` | 6 taglie (`modules`, `asse_section`, `label`) |
 | `preventivatore/src/data/_meta.json`      | statistiche, ripartizione fonti prezzo, preventivo di esempio calcolato |
 | `preventivatore/supabase/seed.sql`        | `INSERT` per le 3 tabelle anagrafiche |
-| `preventivo-demo-data.js`                 | `window.__DEMO__ = {…}` per la demo statica |
 
 ### Cascata del costo unitario (`price_source`)
 

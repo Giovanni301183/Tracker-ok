@@ -426,24 +426,6 @@ def main():
     with open(os.path.join(DATA, "_meta.json"), "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=1)
 
-    # ---- dati per la demo HTML (script classico, apribile con doppio clic) - #
-    demo_blob = {
-        "generated": meta["generated"],
-        "source_file": meta["source_file"],
-        "components": comps,
-        "bom": bom,
-        "configs": [{"modules": m, "asseSection": f"{m} MODULI 1303"} for m in MODULE_SIZES],
-        "excludedAssemblies": sorted(EXCLUDED_ASSEMBLIES),
-        "excludedCategories": sorted(EXCLUDED_CATEGORIES),
-        "quadroMotoreEur": QUADRO_MOTORE_EUR,
-        "exampleProject": example,
-    }
-    with open(os.path.join(REPO, "preventivo-demo-data.js"), "w", encoding="utf-8") as f:
-        f.write("/* Generato da preventivatore/scripts/etl.py — non modificare a mano */\n")
-        f.write("window.__DEMO__ = ")
-        json.dump(demo_blob, f, ensure_ascii=False)
-        f.write(";\n")
-
     # ---- report a schermo ----------------------------------------------- #
     print(f"\nComponenti : {len(comps)}   (con costo: {priced}  /  senza: {len(comps)-priced})")
     for k, v in sorted(by_src.items(), key=lambda x: -x[1]):
@@ -468,7 +450,7 @@ def main():
     print("\nScritti:")
     for p in ("preventivatore/src/data/components.json", "preventivatore/src/data/bom.json",
               "preventivatore/src/data/tracker_configs.json", "preventivatore/src/data/_meta.json",
-              "preventivatore/supabase/seed.sql", "preventivo-demo-data.js"):
+              "preventivatore/supabase/seed.sql"):
         print("   " + p)
 
 

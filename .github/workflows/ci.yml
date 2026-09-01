@@ -22,7 +22,7 @@ jobs:
       - name: Rigenera il seed dal file Excel e verifica che sia allineato
         run: |
           python scripts/etl.py
-          git diff --exit-code -- src/data preventivo-demo-data.js ../preventivo-demo-data.js || \
+          git diff --exit-code -- src/data supabase/seed.sql || \
             (echo "::error::seed non allineato: eseguire 'python preventivatore/scripts/etl.py' e committare" && exit 1)
 
       - uses: actions/setup-node@v4

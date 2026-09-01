@@ -5,7 +5,7 @@ Web app React + Vite + TypeScript. Il PRD completo è nel
 [`docs/DATA-MODEL.md`](../docs/DATA-MODEL.md).
 
 ```
-scripts/etl.py          ETL: Excel rev.NN -> src/data/*.json + supabase/seed.sql + ../preventivo-demo-data.js
+scripts/etl.py          ETL: Excel rev.NN -> src/data/*.json + supabase/seed.sql
 src/lib/pricing.ts       motore di preventivo (funzione pura) — cuore dell'app
 src/lib/types.ts         tipi condivisi
 src/lib/data.ts          import dei JSON statici
@@ -33,6 +33,6 @@ prezzo confermato, nessun salvataggio preventivi).
 
 ```bash
 python scripts/etl.py --xlsx "../LISTINO componenti tracker TTS 1303 - rev.28 (...).xlsx"
-git add src/data supabase/seed.sql ../preventivo-demo-data.js
+git add src/data supabase/seed.sql
 git commit -m "dati: allineamento a rev.28"
 ```
