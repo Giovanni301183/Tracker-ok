@@ -1,0 +1,32 @@
+[
+ {
+  "modules": 12,
+  "asse_section": "12 MODULI 1303",
+  "label": "Tracker 12 moduli"
+ },
+ {
+  "modules": 18,
+  "asse_section": "18 MODULI 1303",
+  "label": "Tracker 18 moduli"
+ },
+ {
+  "modules": 20,
+  "asse_section": "20 MODULI 1303",
+  "label": "Tracker 20 moduli"
+ },
+ {
+  "modules": 22,
+  "asse_section": "22 MODULI 1303",
+  "label": "Tracker 22 moduli"
+ },
+ {
+  "modules": 36,
+  "asse_section": "36 MODULI 1303",
+  "label": "Tracker 36 moduli"
+ },
+ {
+  "modules": 40,
+  "asse_section": "40 MODULI 1303",
+  "label": "Tracker 40 moduli"
+ }
+]

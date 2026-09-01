@@ -25,3 +25,11 @@ env/
 # Editor / IDE
 .vscode/
 .idea/
+
+# Node / web app (vedi preventivatore/.gitignore)
+node_modules/
+dist/
+.env
+.env.local
+.vite/
+coverage/

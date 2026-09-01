@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Preventivatore Tracker TTS 1303 — demo</title>
+<style>
+  :root{
+    --bg:#f6f7f9;--panel:#fff;--ink:#1c2733;--muted:#5b6b7b;--line:#e2e6ea;--accent:#1f6feb;
+    --alta:#2e7d32;--media:#f9a825;--bassa:#ef6c00;--nulla:#c62828;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font:14px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+  .wrap{max-width:1060px;margin:0 auto;padding:26px 20px 80px}
+  h1{font-size:20px;margin:0 0 2px}
+  h2{font-size:15px;margin:0 0 12px}
+  .sub{color:var(--muted);margin:0 0 20px}
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px;margin-bottom:16px}
+  table{border-collapse:collapse;width:100%}
+  th,td{padding:7px 10px;border-bottom:1px solid var(--line);text-align:left}
+  th{font-size:11px;text-transform:uppercase;letter-spacing:.03em;color:var(--muted)}
+  td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+  input[type=number]{font:inherit;padding:4px 7px;border:1px solid var(--line);border-radius:6px;width:78px}
+  select{font:inherit;padding:4px 7px;border:1px solid var(--line);border-radius:6px}
+  button{font:inherit;border:1px solid var(--line);background:#fff;border-radius:7px;padding:7px 12px;cursor:pointer}
+  button.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px}
+  .card{border:1px solid var(--line);border-radius:9px;padding:12px 14px}
+  .card .lbl{color:var(--muted);font-size:12px}
+  .card .big{font-size:20px;font-weight:700;font-variant-numeric:tabular-nums}
+  .totrow{display:flex;justify-content:space-between;padding:6px 0}
+  .totrow.grand{border-top:2px solid var(--ink);margin-top:8px;padding-top:10px;font-size:17px;font-weight:700}
+  .confbar{display:flex;height:26px;border-radius:6px;overflow:hidden;border:1px solid var(--line)}
+  .confbar span{display:flex;align-items:center;justify-content:center;color:#fff;font-size:11px;font-weight:600}
+  .s-alta{background:var(--alta)}.s-media{background:var(--media)}.s-bassa{background:var(--bassa)}.s-nulla{background:var(--nulla)}
+  .legend{display:flex;flex-wrap:wrap;gap:16px;margin-top:8px;color:var(--muted);font-size:12px}
+  .dot{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:middle}
+  .pill{font-size:11px;padding:2px 7px;border-radius:999px;border:1px solid var(--line);color:var(--muted)}
+  code{background:#eef1f4;padding:1px 4px;border-radius:4px}
+  .muted{color:var(--muted)}.warn{color:var(--nulla)}
+  .err{background:#fdecea;border:1px solid #f5c6cb;color:#8a1c1c;padding:14px;border-radius:9px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Preventivatore Tracker TTS 1303 — demo</h1>
+  <p class="sub" id="sub">Caricamento dati…</p>
+  <div id="app"></div>
+</div>
+
+<script src="preventivo-demo-data.js"></script>
+<script>
+/* ------------------------------------------------------------------ *
+ *  Motore di preventivo — copia JS di preventivatore/src/lib/pricing.ts
+ * ------------------------------------------------------------------ */
+var CONFIDENCE = {
+  confermato:"alta", listino:"alta", scheda_commerciale:"alta",
+  scheda_struttura:"media", scheda_pezzi_speciali:"media",
+  stima_peso:"bassa", mancante:"nulla", senza_codice:"nulla"
+};
+var r2 = function(n){ return Math.round(n*100)/100; };
+
+function explodeTracker(bom, byCode, modules, settings){
+  var asseSection = modules + " MODULI 1303";
+  var exA = new Set(settings.excludedAssemblies), exC = new Set(settings.excludedCategories);
+  var out = [];
+  for (var i=0;i<bom.length;i++){
+    var bl = bom[i];
+    if (exA.has(bl.assembly)) continue;
+    if (bl.already_loaded) continue;
+    if (exC.has(bl.category)) continue;
+    if (bl.assembly === "ASSI DI ROTAZIONE 1303" && bl.section !== asseSection) continue;
+    var cfg = bl.qty_by_config ? bl.qty_by_config[String(modules)] : null;
+    var qty = (cfg !== null && cfg !== undefined) ? cfg : bl.qty_base;
+    if (!qty) continue;
+    var comp = bl.code ? byCode.get(bl.code) : null;
+    var unit = 0, src = "senza_codice";
+    if (comp){
+      if (comp.computed_cost != null && comp.computed_cost > 0){ unit = comp.computed_cost; src = comp.price_source; }
+      else src = "mancante";
+    }
+    out.push({
+      code:bl.code, description:bl.description, assembly:bl.assembly,
+      qty:qty, unitCost:unit, amount:r2(qty*unit),
+      priceSource:src, confidence:CONFIDENCE[src] || "nulla", priced:unit>0
+    });
+  }
+  return out;
+}
+
+function computeQuote(project, components, bom, settings){
+  var byCode = new Map();
+  components.forEach(function(c){ if(c.code) byCode.set(c.code,c); });
+  var confAmount = {alta:0,media:0,bassa:0,nulla:0};
+  var perComp = new Map();
+  var materialTotal = 0, bomLines = 0, bomMissing = 0;
+
+  var trackerTypes = project.tracker_types.map(function(t){
+    var lines = explodeTracker(bom, byCode, t.modules, settings);
+    var material = r2(lines.reduce(function(s,l){return s+l.amount;},0));
+    var missing = lines.filter(function(l){return !l.priced && l.qty;}).length;
+    lines.forEach(function(l){
+      confAmount[l.confidence] += l.amount * t.count;
+      var key = l.code || ("__"+l.description);
+      var a = perComp.get(key) || {code:l.code,description:l.description,qty:0,unitCost:l.unitCost,amount:0,priceSource:l.priceSource};
+      a.qty += l.qty * t.count;
+      a.amount = r2(a.amount + l.amount * t.count);
+      perComp.set(key, a);
+    });
+    materialTotal += material * t.count;
+    bomLines += lines.length; bomMissing += missing;
+    var quadro = settings.quadroMotoreEur * t.count;
+    return {modules:t.modules, count:t.count, materialPerTracker:material,
+      quadroMotore:quadro, subtotal:r2(material*t.count+quadro), linesMissingPrice:missing, linesTotal:lines.length};
+  });
+
+  var nTracker = project.tracker_types.reduce(function(s,t){return s+t.count;},0);
+  var quadroCost = settings.quadroMotoreEur * nTracker;
+  var costTotal = r2(materialTotal + quadroCost);
+  var marginPct = project.margin_pct || 0;
+  var pct = function(v){ return materialTotal ? r2(100*v/materialTotal) : 0; };
+
+  return {
+    trackerTypes: trackerTypes,
+    totals: {
+      nTracker:nTracker, materialCost:r2(materialTotal), quadroMotoreCost:r2(quadroCost),
+      costTotal:costTotal, marginPct:marginPct, sellTotal:r2(costTotal*(1+marginPct/100)),
+      confidencePct:{alta:pct(confAmount.alta),media:pct(confAmount.media),bassa:pct(confAmount.bassa),nulla:pct(confAmount.nulla)},
+      bomLines:bomLines, bomLinesMissingPrice:bomMissing
+    },
+    byComponent: Array.from(perComp.values()).sort(function(a,b){return b.amount-a.amount;})
+  };
+}
+
+/* ------------------------------------------------------------------ *
+ *  Rendering
+ * ------------------------------------------------------------------ */
+var eur = new Intl.NumberFormat("it-IT",{style:"currency",currency:"EUR"});
+var n0  = new Intl.NumberFormat("it-IT",{maximumFractionDigits:0});
+var n2  = new Intl.NumberFormat("it-IT",{maximumFractionDigits:2});
+var E = function(v){return eur.format(v||0);};
+var esc = function(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});};
+
+var SRC = {confermato:"confermato",listino:"listino",scheda_commerciale:"catalogo",
+  scheda_struttura:"peso × €/kg",scheda_pezzi_speciali:"peso × €/kg",stima_peso:"stima peso",
+  mancante:"mancante",senza_codice:"senza codice"};
+var CONFLBL = {alta:"Confermato / a catalogo",media:"Calcolato peso × €/kg",bassa:"Stima da peso",nulla:"Prezzo mancante"};
+
+var D, SETTINGS, rows, marginPct = 0;
+
+function render(){
+  var project = {tracker_types: rows.filter(function(r){return r.count>0;}), margin_pct:marginPct};
+  var q = computeQuote(project, D.components, D.bom, SETTINGS);
+  var t = q.totals;
+
+  var cfgRows = rows.map(function(r,i){
+    return '<tr><td><input type="number" min="0" value="'+r.count+'" data-i="'+i+'" data-k="count"></td>'
+      + '<td><select data-i="'+i+'" data-k="modules">'
+      + D.configs.map(function(c){return '<option value="'+c.modules+'"'+(c.modules===r.modules?" selected":"")+'>'+c.modules+' moduli</option>';}).join("")
+      + '</select></td>'
+      + '<td><button data-del="'+i+'">Rimuovi</button></td></tr>';
+  }).join("");
+
+  var typeRows = q.trackerTypes.map(function(tt){
+    return '<tr><td>Tracker '+tt.modules+' moduli</td><td class="num">'+n0.format(tt.count)+'</td>'
+      + '<td class="num">'+E(tt.materialPerTracker)+'</td><td class="num">'+E(tt.quadroMotore)+'</td>'
+      + '<td class="num">'+E(tt.subtotal)+'</td><td class="num">'+(tt.linesMissingPrice||"—")+'</td></tr>';
+  }).join("");
+
+  var order = ["alta","media","bassa","nulla"];
+  var bar = order.map(function(k){
+    var p = t.confidencePct[k];
+    return p>0 ? '<span class="s-'+k+'" style="width:'+p+'%" title="'+CONFLBL[k]+' — '+n2.format(p)+'%">'+(p>=8?n2.format(p)+"%":"")+'</span>' : "";
+  }).join("");
+  var legend = order.map(function(k){
+    return '<span><span class="dot s-'+k+'"></span>'+CONFLBL[k]+' · <b>'+n2.format(t.confidencePct[k])+'%</b></span>';
+  }).join("");
+
+  var top = q.byComponent.slice(0,20).map(function(x){
+    return '<tr><td><code>'+esc(x.code||"—")+'</code></td><td>'+esc(x.description)+'</td>'
+      + '<td class="num">'+n0.format(x.qty)+'</td><td class="num">'+n2.format(x.unitCost)+'</td>'
+      + '<td class="num">'+E(x.amount)+'</td><td><span class="pill">'+(SRC[x.priceSource]||x.priceSource)+'</span></td></tr>';
+  }).join("");
+
+  document.getElementById("app").innerHTML =
+    '<div class="panel"><h2>Configurazione di progetto</h2>'
+    + '<table><thead><tr><th>N. tracker</th><th>Moduli / tracker</th><th></th></tr></thead><tbody>'+cfgRows+'</tbody></table>'
+    + '<div style="margin-top:12px;display:flex;gap:8px;align-items:center;flex-wrap:wrap">'
+    +   '<button id="add">+ Riga</button><button id="ex">Carica esempio (69 tracker)</button>'
+    +   '<span style="flex:1"></span><label>Margine <input type="number" id="margin" min="0" step="0.5" value="'+marginPct+'"> %</label>'
+    + '</div>'
+    + '<p class="muted" style="margin-bottom:0">Totale <b>'+n0.format(t.nTracker)+'</b> tracker · perimetro: esclusi '
+    +   SETTINGS.excludedAssemblies.map(function(a){return "«"+a+"»";}).join(", ")+' · quadro motore forfait '+E(SETTINGS.quadroMotoreEur)+'/tracker</p>'
+    + '</div>'
+
+    + '<div class="panel"><h2>Preventivo</h2><div class="cards">'
+    +   card("Tracker", n0.format(t.nTracker))
+    +   card("Materiale", E(t.materialCost))
+    +   card("Quadri motore (forfait)", E(t.quadroMotoreCost))
+    +   card("Costo totale", E(t.costTotal))
+    + '</div><div style="margin-top:14px">'
+    +   trow("Materiale (esploso da distinta)", E(t.materialCost))
+    +   trow("Quadro motore — "+n0.format(t.nTracker)+" × "+E(SETTINGS.quadroMotoreEur), E(t.quadroMotoreCost))
+    +   trow("Costo totale", E(t.costTotal))
+    +   trow("Margine "+t.marginPct+"%", E(t.sellTotal - t.costTotal))
+    +   '<div class="totrow grand"><span>Prezzo di vendita</span><span>'+E(t.sellTotal)+'</span></div>'
+    + '</div></div>'
+
+    + '<div class="panel"><h2>Puntualità del preventivo</h2>'
+    +   '<div class="confbar">'+bar+'</div><div class="legend">'+legend+'</div>'
+    +   '<p class="muted" style="margin-bottom:0">'
+    +     (t.bomLinesMissingPrice>0 ? '<span class="warn">'+n0.format(t.bomLinesMissingPrice)+' righe di distinta su '+n0.format(t.bomLines)+' senza prezzo.</span> ' : 'Tutte le '+n0.format(t.bomLines)+' righe hanno un costo. ')
+    +     'Il valore in <b>media</b> è costo teorico peso × €/kg dalle schede: va confermato dall’ufficio acquisti per diventare <b>alta</b>.'
+    +   '</p></div>'
+
+    + '<div class="panel"><h2>Dettaglio per tipologia</h2>'
+    +   '<table><thead><tr><th>Tipologia</th><th class="num">N.</th><th class="num">Materiale / tracker</th>'
+    +   '<th class="num">Quadro motore</th><th class="num">Subtotale</th><th class="num">Righe s/prezzo</th></tr></thead>'
+    +   '<tbody>'+typeRows+'</tbody></table></div>'
+
+    + '<div class="panel"><h2>Prime 20 voci per impatto sul preventivo</h2>'
+    +   '<p class="muted" style="margin-top:0">Sono i codici su cui conviene confermare per primo il prezzo reale.</p>'
+    +   '<table><thead><tr><th>Codice</th><th>Descrizione</th><th class="num">Q.tà lotto</th>'
+    +   '<th class="num">Costo unit.</th><th class="num">Importo</th><th>Fonte prezzo</th></tr></thead>'
+    +   '<tbody>'+top+'</tbody></table></div>';
+
+  wire();
+}
+
+function card(l,v){ return '<div class="card"><div class="lbl">'+l+'</div><div class="big">'+v+'</div></div>'; }
+function trow(l,v){ return '<div class="totrow"><span>'+l+'</span><span>'+v+'</span></div>'; }
+
+function wire(){
+  document.querySelectorAll('input[data-k],select[data-k]').forEach(function(el){
+    el.addEventListener('change', function(){
+      var i=+el.dataset.i, k=el.dataset.k;
+      rows[i][k] = Math.max(0, +el.value) || (k==="modules"?+el.value:0);
+      render();
+    });
+  });
+  document.querySelectorAll('button[data-del]').forEach(function(b){
+    b.addEventListener('click', function(){ rows.splice(+b.dataset.del,1); render(); });
+  });
+  document.getElementById('add').addEventListener('click', function(){
+    rows.push({modules:D.configs[0].modules, count:1}); render();
+  });
+  document.getElementById('ex').addEventListener('click', function(){
+    rows = D.exampleProject.tracker_types.map(function(t){return {modules:t.modules,count:t.count};}); render();
+  });
+  document.getElementById('margin').addEventListener('change', function(e){
+    marginPct = Math.max(0, +e.target.value); render();
+  });
+}
+
+/* ------------------------------------------------------------------ */
+(function init(){
+  if (!window.__DEMO__){
+    document.getElementById("sub").outerHTML =
+      '<div class="err"><b>preventivo-demo-data.js non caricato.</b><br>'
+      + 'Rigenerarlo con <code>python preventivatore/scripts/etl.py</code> e tenerlo nella stessa cartella di questo file.</div>';
+    return;
+  }
+  D = window.__DEMO__;
+  SETTINGS = {
+    excludedAssemblies: D.excludedAssemblies,
+    excludedCategories: D.excludedCategories,
+    quadroMotoreEur: D.quadroMotoreEur
+  };
+  rows = D.exampleProject.tracker_types.map(function(t){return {modules:t.modules,count:t.count};});
+  document.getElementById("sub").textContent =
+    "Distinta " + D.source_file + " · " + D.components.length + " componenti · "
+    + D.bom.length + " righe di distinta · dati del " + D.generated;
+  render();
+})();
+</script>
+</body>
+</html>

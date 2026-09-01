@@ -1,0 +1,147 @@
+{
+ "generated": "2026-09-01",
+ "source_file": "LISTINO componenti tracker TTS 1303 - rev.27 (bulloneria tabella unica).xlsx",
+ "counts": {
+  "components": 198,
+  "bom_lines": 343,
+  "priced_components": 184
+ },
+ "price_source_breakdown": {
+  "scheda_struttura": 131,
+  "mancante": 14,
+  "scheda_pezzi_speciali": 21,
+  "stima_peso": 30,
+  "scheda_commerciale": 2
+ },
+ "excluded_assemblies": [
+  "kit quadri area",
+  "kit quadri centralina meteo",
+  "kit quadri inverter",
+  "kit quadro motore",
+  "sensori meteo"
+ ],
+ "excluded_categories": [
+  "Moduli fotovoltaici",
+  "Quadristica ed elettrico"
+ ],
+ "quadro_motore_eur": 170.0,
+ "example_project": {
+  "name": "Progetto di esempio",
+  "margin_pct": 0,
+  "tracker_types": [
+   {
+    "modules": 12,
+    "count": 4
+   },
+   {
+    "modules": 18,
+    "count": 1
+   },
+   {
+    "modules": 20,
+    "count": 20
+   },
+   {
+    "modules": 22,
+    "count": 5
+   },
+   {
+    "modules": 36,
+    "count": 34
+   },
+   {
+    "modules": 40,
+    "count": 5
+   }
+  ]
+ },
+ "example_quote": {
+  "tracker_types": [
+   {
+    "modules": 12,
+    "count": 4,
+    "material_per_tracker": 1152.62,
+    "quadro_motore": 680.0,
+    "subtotal": 5290.48,
+    "lines_total": 94,
+    "lines_missing_price": 2
+   },
+   {
+    "modules": 18,
+    "count": 1,
+    "material_per_tracker": 1759.34,
+    "quadro_motore": 170.0,
+    "subtotal": 1929.34,
+    "lines_total": 104,
+    "lines_missing_price": 2
+   },
+   {
+    "modules": 20,
+    "count": 20,
+    "material_per_tracker": 1711.79,
+    "quadro_motore": 3400.0,
+    "subtotal": 37635.8,
+    "lines_total": 104,
+    "lines_missing_price": 2
+   },
+   {
+    "modules": 22,
+    "count": 5,
+    "material_per_tracker": 1910.21,
+    "quadro_motore": 850.0,
+    "subtotal": 10401.05,
+    "lines_total": 104,
+    "lines_missing_price": 2
+   },
+   {
+    "modules": 36,
+    "count": 34,
+    "material_per_tracker": 2821.47,
+    "quadro_motore": 5780.0,
+    "subtotal": 101709.98,
+    "lines_total": 105,
+    "lines_missing_price": 2
+   },
+   {
+    "modules": 40,
+    "count": 5,
+    "material_per_tracker": 3281.55,
+    "quadro_motore": 850.0,
+    "subtotal": 17257.75,
+    "lines_total": 106,
+    "lines_missing_price": 2
+   }
+  ],
+  "extras": [
+   {
+    "label": "Quadro motore (forfait)",
+    "unit": 170.0,
+    "qty": 69,
+    "amount": 11730.0
+   }
+  ],
+  "totals": {
+   "n_tracker": 69,
+   "material_cost": 162494.4,
+   "quadro_motore_cost": 11730.0,
+   "cost_total": 174224.4,
+   "margin_pct": 0,
+   "sell_total": 174224.4,
+   "price_coverage_pct": 100.0,
+   "confidence_amount": {
+    "alta": 26342.0,
+    "media": 128006.76,
+    "bassa": 8145.64,
+    "nulla": 0.0
+   },
+   "confidence_pct": {
+    "alta": 16.2,
+    "media": 78.8,
+    "bassa": 5.0,
+    "nulla": 0.0
+   },
+   "bom_lines": 617,
+   "bom_lines_missing_price": 12
+  }
+ }
+}

@@ -1,0 +1,6519 @@
+[
+ {
+  "row": 2,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPE140.30",
+  "description": "Pilastro fondazione trave IPE140 mt.3,00",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 3,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPEA140.30",
+  "description": "Pilastro fondazione trave IPEA140 mt.3,00 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 4,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPE140.26",
+  "description": "Pilastro fondazione trave IPE140 mt.2,60",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 5,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPEA140.26",
+  "description": "Pilastro fondazione trave IPEA140 mt.2,60 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 6,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPE140.27",
+  "description": "Pilastro fondazione trave IPE140 mt.2,70",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 7,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPEA140.27",
+  "description": "Pilastro fondazione trave IPEA140 mt.2,70 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 8,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPE140.28",
+  "description": "Pilastro fondazione trave IPE140 mt.2,80",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 9,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPEA140.28",
+  "description": "Pilastro fondazione trave IPEA140 mt.2,80 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 10,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPE140.29",
+  "description": "Pilastro fondazione trave IPE140 mt.2,90",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 11,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPEA140.29",
+  "description": "Pilastro fondazione trave IPEA140 mt.2,90 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 12,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPE140.31",
+  "description": "Pilastro fondazione trave IPE140 mt.3,10",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 13,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPEA140.31",
+  "description": "Pilastro fondazione trave IPEA140 mt.3,10 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 14,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPE140.32",
+  "description": "Pilastro fondazione trave IPE140 mt.3,20",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 15,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPEA140.32",
+  "description": "Pilastro fondazione trave IPEA140 mt.3,20 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 16,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPE140.33",
+  "description": "Pilastro fondazione trave IPE140 mt.3,30",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 17,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPEA140.33",
+  "description": "Pilastro fondazione trave IPEA140 mt.3,30 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 18,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPE140.34",
+  "description": "Pilastro fondazione trave IPE140 mt.3,40",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 19,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPEA140.34",
+  "description": "Pilastro fondazione trave IPEA140 mt.3,40 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 20,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPE140.35",
+  "description": "Pilastro fondazione trave IPE140 mt.3,50",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 21,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPEA140.35",
+  "description": "Pilastro fondazione trave IPEA140 mt.3,50 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 22,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPE140.36",
+  "description": "Pilastro fondazione trave IPE140 mt.3,60",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 23,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPEA140.36",
+  "description": "Pilastro fondazione trave IPEA140 mt.3,60 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 24,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.22",
+  "description": "Pilastro motore trave IPE 140 mt.2,22",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 25,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.22",
+  "description": "Pilastro motore trave ipea140 x 2220 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 26,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.27",
+  "description": "Pilastro motore trave ipe140 x 2720 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 27,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.27",
+  "description": "Pilastro motore trave ipea140 x 2720 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 28,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.28",
+  "description": "Pilastro motore trave ipe140 x 2820 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 29,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.28",
+  "description": "Pilastro motore trave ipea140 x 2820 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 30,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.29",
+  "description": "Pilastro motore trave ipe140 x 2920 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 31,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.29",
+  "description": "Pilastro motore trave ipea140 x 2920 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 32,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.30",
+  "description": "Pilastro motore trave ipe140 x 3020 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 33,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.30",
+  "description": "Pilastro motore trave ipea140 x 3020 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 34,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.31",
+  "description": "Pilastro motore trave ipe140 x 3120 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 35,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.31",
+  "description": "Pilastro motore trave ipea140 x 3120 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 36,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.32",
+  "description": "Pilastro motore trave ipe140 x 3220 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 37,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.32",
+  "description": "Pilastro motore trave ipea140 x 3220 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 38,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.33",
+  "description": "Pilastro motore trave ipe140 x 3320 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 39,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.33",
+  "description": "Pilastro motore trave ipea140 x 3320 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 40,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.34",
+  "description": "Pilastro motore trave ipe140 x 3420 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 41,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.34",
+  "description": "Pilastro motore trave ipea140 x 3420 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 42,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.35",
+  "description": "Pilastro motore trave ipe140 x 3520 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 43,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.35",
+  "description": "Pilastro motore trave ipea140 x 3520 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 44,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.36",
+  "description": "Pilastro motore trave ipe140 x 3620 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 45,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.36",
+  "description": "Pilastro motore trave ipea140 x 3620 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 46,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.37",
+  "description": "Pilastro motore trave ipe140 x 3720 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 47,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.37",
+  "description": "Pilastro motore trave ipea140 x 3720 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 48,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.38",
+  "description": "Pilastro motore trave ipe140 x 3820 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 49,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.38",
+  "description": "Pilastro motore trave ipea140 x 3820 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 50,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.39",
+  "description": "Pilastro motore trave ipe140 x 3920 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 51,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.39",
+  "description": "Pilastro motore trave ipea140 x 3920 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 52,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.40",
+  "description": "Pilastro motore trave ipe140 x 4020 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 53,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.40",
+  "description": "Pilastro motore trave ipea140 x 4020 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 54,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.41",
+  "description": "Pilastro motore trave ipe140 x 4120 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 55,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.41",
+  "description": "Pilastro motore trave ipea140 x 4120 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 56,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.42",
+  "description": "Pilastro motore trave ipe140 x 4220 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 57,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.42",
+  "description": "Pilastro motore trave ipea140 x 4220 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 58,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.43",
+  "description": "Pilastro motore trave ipe140 x 4320 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 59,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.43",
+  "description": "Pilastro motore trave ipea140 x 4320 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 60,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPE140.44",
+  "description": "Pilastro motore trave ipe140 x 4420 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 61,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.001.IPEA140.44",
+  "description": "Pilastro motore trave ipea140 x 4420 con foratura alloggiamento quadro motore (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 62,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 3,
+  "code": "TTS.PF.002.IPE140",
+  "description": "Piastra giunzione montanti centrali 200x100x4 (8 fori Ø 11)",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 63,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 4,
+  "code": "10BZ10X40",
+  "description": "Bullone testa esagonale zn M10X40",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 64,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 5,
+  "code": "10ROND10",
+  "description": "Rondella zn da 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 65,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 6,
+  "code": "10ROND10",
+  "description": "Rondella zn da 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 66,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 7,
+  "code": "10DAZAM10",
+  "description": "Dado autobloccante M10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 67,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.003.IPE140",
+  "description": "Piastra giunzione montanti esterna 240x70x6 (12 fori Ø 11)",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 68,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PF.004.IPE140",
+  "description": "Piastra giunzione interna240x25x6 (6 fori Ø 11)",
+  "category": "Carpenteria metallica",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 69,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 3,
+  "code": "10BZ10X40",
+  "description": "Bullone testa esagonale M10X40",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 24.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 70,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 4,
+  "code": "10ROND10",
+  "description": "Rondella zn da 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 24.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 71,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 5,
+  "code": "10ROND10",
+  "description": "Rondella zn da 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 24.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 72,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 6,
+  "code": "10DAZAM10",
+  "description": "Dado autobloccante M10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 24.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 73,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.002.IPE140",
+  "description": "Supporto laterale testa riduttore",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 74,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 3,
+  "code": "10BZM10X40",
+  "description": "Bullone testa esagonale M10X40",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 75,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 4,
+  "code": "10ROND10",
+  "description": "Rondella zn da 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 16.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 76,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 5,
+  "code": "10DAZAM10",
+  "description": "Dado autobloccante M10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 77,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 2,
+  "code": "CHSD7-60-S112-24.15.300-L1.2",
+  "description": "Motoriduttore",
+  "category": "Motorizzazione",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 78,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 3,
+  "code": "10BZM16X60",
+  "description": "Bullone testa esagonale M16X60",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 79,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 4,
+  "code": "10ROND16",
+  "description": "Rondella zn da 16",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 80,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PM.003.IPE140",
+  "description": "Testa riduttore pilastro motore",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 81,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 5,
+  "code": "10ROND16",
+  "description": "Rondella zn da 16",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 82,
+  "assembly": "PILASTRO MOTORE",
+  "section": null,
+  "position": 6,
+  "code": "10DAZAM16",
+  "description": "Dado autobloccante M16",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 83,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.001.IPE140.30",
+  "description": "Pilastro fondazione trave IPE140 mt3,00",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": 2.0,
+   "18": 4.0,
+   "20": 4.0,
+   "22": 4.0,
+   "36": 8.0,
+   "40": 10.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 84,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.23",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.2,30",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": 2.0,
+   "18": 4.0,
+   "20": 4.0,
+   "22": 4.0,
+   "36": 8.0,
+   "40": 10.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 85,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.23",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.2,30 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 86,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.28",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.2,80",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 87,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.28",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.2,80 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 88,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.29",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.2,90",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 89,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.29",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.2,90 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 90,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.30",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.3,00",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 91,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.30",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.3,00 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 92,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.31",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.3,10",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 93,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.31",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.3,10 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 94,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.32",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.3,20",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 95,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.32",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.3,20 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 96,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.33",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.3,30",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 97,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.33",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.3,30 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 98,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.34",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.3,40",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 99,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.34",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.3,40 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 100,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.35",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.3,50",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 101,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.35",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.3,50 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 102,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.36",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.3,60",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 103,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.36",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.3,60 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 104,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.37",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.3,70",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 105,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.37",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.3,70 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 106,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.38",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.3,80",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 107,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.38",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.3,80 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 108,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.39",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.3,90",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 109,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.39",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.3,90 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 110,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.40",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.4,00",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 111,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.40",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.4,00 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 112,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.41",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.4,10",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 113,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.41",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.4,10 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 114,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.42",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.4,20",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 115,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.42",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.4,20 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 116,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.43",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.4,30",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 117,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.43",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.4,30 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 118,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.44",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.4,40",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 119,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.44",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.4,40 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 120,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPE140.45",
+  "description": "Pilastro cuscinetto trave IPE 140 mt.4,50",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 121,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.001.IPEA140.45",
+  "description": "Pilastro cuscinetto trave IPEA 140 mt.4,50 (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 122,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 3,
+  "code": "TTS.PF.002.IPE140",
+  "description": "Piastra giunzione montanti centrale 200x100x4 (8 fori Ø 11)",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": 4.0,
+   "18": 8.0,
+   "20": 8.0,
+   "22": 8.0,
+   "36": 16.0,
+   "40": 20.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 123,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 4,
+  "code": "10BZM10X40",
+  "description": "Bullone testa esagonale M10X40",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": 16.0,
+   "18": 32.0,
+   "20": 32.0,
+   "22": 32.0,
+   "36": 64.0,
+   "40": 80.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 124,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 5,
+  "code": "10ROND10",
+  "description": "Rondella zn da 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": 16.0,
+   "18": 32.0,
+   "20": 32.0,
+   "22": 32.0,
+   "36": 64.0,
+   "40": 80.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 125,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 6,
+  "code": "10ROND10",
+  "description": "Rondella zn da 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": 16.0,
+   "18": 32.0,
+   "20": 32.0,
+   "22": 32.0,
+   "36": 64.0,
+   "40": 80.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 126,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 7,
+  "code": "10DAZAM10",
+  "description": "Dado autobloccante M10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": 16.0,
+   "18": 32.0,
+   "20": 32.0,
+   "22": 32.0,
+   "36": 64.0,
+   "40": 80.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 127,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PF.003.IPE140",
+  "description": "Piastra giunzione montanti esterna 240x70x6 (12 fori Ø 11)",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": 4.0,
+   "18": 8.0,
+   "20": 8.0,
+   "22": 8.0,
+   "36": 16.0,
+   "40": 20.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 128,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PF.004.IPE140",
+  "description": "Piastra giunzione montanti interna 240x25x6 (6 fori Ø 11)",
+  "category": "Carpenteria metallica",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 8.0,
+   "18": 16.0,
+   "20": 16.0,
+   "22": 16.0,
+   "36": 32.0,
+   "40": 40.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 129,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 3,
+  "code": "10BZM10X40",
+  "description": "Bullone testa esagonale M10X40",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 24.0,
+  "qty_by_config": {
+   "12": 48.0,
+   "18": 96.0,
+   "20": 96.0,
+   "22": 96.0,
+   "36": 192.0,
+   "40": 240.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 130,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 4,
+  "code": "10ROND10",
+  "description": "Rondella zn da 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 24.0,
+  "qty_by_config": {
+   "12": 48.0,
+   "18": 96.0,
+   "20": 96.0,
+   "22": 96.0,
+   "36": 192.0,
+   "40": 240.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 131,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 5,
+  "code": "10ROND10",
+  "description": "Rondella zn da 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 24.0,
+  "qty_by_config": {
+   "12": 48.0,
+   "18": 96.0,
+   "20": 96.0,
+   "22": 96.0,
+   "36": 192.0,
+   "40": 240.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 132,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 6,
+  "code": "10DAZAM10",
+  "description": "Dado autobloccante M10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 24.0,
+  "qty_by_config": {
+   "12": 48.0,
+   "18": 96.0,
+   "20": 96.0,
+   "22": 96.0,
+   "36": 192.0,
+   "40": 240.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 133,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.002.IPE140",
+  "description": "Supporto laterale testa cuscinetto",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": 4.0,
+   "18": 8.0,
+   "20": 8.0,
+   "22": 8.0,
+   "36": 16.0,
+   "40": 20.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 134,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 3,
+  "code": "TTS.PC.003.IPE140",
+  "description": "Supporto testa cuscinetto",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": 2.0,
+   "18": 4.0,
+   "20": 4.0,
+   "22": 4.0,
+   "36": 8.0,
+   "40": 10.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 135,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 4,
+  "code": "10BZ10X30",
+  "description": "Bullone testa esagonale M10X30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 8.0,
+   "18": 16.0,
+   "20": 16.0,
+   "22": 16.0,
+   "36": 32.0,
+   "40": 40.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 136,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 5,
+  "code": "10ROND10",
+  "description": "Rondella zn da 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 8.0,
+   "18": 16.0,
+   "20": 16.0,
+   "22": 16.0,
+   "36": 32.0,
+   "40": 40.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 137,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 6,
+  "code": "10ROND10",
+  "description": "Rondella zn da 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 8.0,
+   "18": 16.0,
+   "20": 16.0,
+   "22": 16.0,
+   "36": 32.0,
+   "40": 40.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 138,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 7,
+  "code": "10DAZAM10",
+  "description": "Dado autobloccante M10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 8.0,
+   "18": 16.0,
+   "20": 16.0,
+   "22": 16.0,
+   "36": 32.0,
+   "40": 40.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 139,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 2,
+  "code": "ESQM_2_0_120_1",
+  "description": "Cuscinetto asse di rotazione",
+  "category": "Cuscinetti",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": 2.0,
+   "18": 4.0,
+   "20": 4.0,
+   "22": 4.0,
+   "36": 8.0,
+   "40": 10.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 140,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 3,
+  "code": "10BZ16X140",
+  "description": "Bullone testa esagonale M16x140 mezzo filetto",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": 4.0,
+   "18": 8.0,
+   "20": 8.0,
+   "22": 8.0,
+   "36": 16.0,
+   "40": 20.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 141,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 4,
+  "code": "10ROND16",
+  "description": "Rondella zn da 16",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": 4.0,
+   "18": 8.0,
+   "20": 8.0,
+   "22": 8.0,
+   "36": 16.0,
+   "40": 20.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 142,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 5,
+  "code": "10ROND16",
+  "description": "Rondella zn da 16",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": 4.0,
+   "18": 8.0,
+   "20": 8.0,
+   "22": 8.0,
+   "36": 16.0,
+   "40": 20.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 143,
+  "assembly": "PILASTRO CUSCINETTO",
+  "section": null,
+  "position": 6,
+  "code": "10DAZAM16",
+  "description": "Dado autobloccante M16",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": 4.0,
+   "18": 8.0,
+   "20": 8.0,
+   "22": 8.0,
+   "36": 16.0,
+   "40": 20.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 144,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "12 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.001.8250",
+  "description": "Asse lato motore 120x120x3 mm. lunghezza mt.8,25",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 145,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "12 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.001.8250.25",
+  "description": "Asse lato motore 120x120x2,5 mm. lunghezza mt.8,25",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 146,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "18 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.001.7200",
+  "description": "Asse lato motore 120x120x3 mm. lunghezza mt.7,20",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 147,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "18 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.001.7200.25",
+  "description": "Asse lato motore 120x120x2,5 mm. lunghezza mt.7,20",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 148,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "18 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.002.5000",
+  "description": "Asse esterno 120x120x3 mm. lunghezza mt.5,00",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 149,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "18 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.002.5000.25",
+  "description": "Asse esterno 120x120x2,5 mm. lunghezza mt.5,00",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 150,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "18 MODULI 1303",
+  "position": 1,
+  "code": "TTS.AR.2011",
+  "description": "Gaffa giunzione asse",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": 4.0,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 151,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "18 MODULI 1303",
+  "position": 2,
+  "code": "10BZM8X150",
+  "description": "Bullone testa esagonale zn M8X150",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": 4.0,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 152,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "18 MODULI 1303",
+  "position": 3,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": 4.0,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 153,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "18 MODULI 1303",
+  "position": 4,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": 4.0,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 154,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "18 MODULI 1303",
+  "position": 5,
+  "code": "10DAZAM8",
+  "description": "Dado autobloccante M8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": 4.0,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 155,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "18 MODULI 1303",
+  "position": 6,
+  "code": "10BZM10X30",
+  "description": "Bullone testa esagonale zn M10X30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": 16.0,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 156,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "18 MODULI 1303",
+  "position": 7,
+  "code": "10ROND10",
+  "description": "Rondella zn 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": 16.0,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 157,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "18 MODULI 1303",
+  "position": 8,
+  "code": "10ROND10",
+  "description": "Rondella zn 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": 16.0,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 158,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "18 MODULI 1303",
+  "position": 9,
+  "code": "10DAZAM10",
+  "description": "Dado autobloccante M10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": 16.0,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 159,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "20 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.001.7200",
+  "description": "Asse lato motore 120x120x3 mm. lunghezza mt.7,20",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 160,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "20 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.002.6300",
+  "description": "Asse esterno 120x120x3 mm. lunghezza mt.6,30",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 161,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "20 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.002.6300.25",
+  "description": "Asse esterno 120x120x2,5 mm. lunghezza mt.6,30",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 162,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "20 MODULI 1303",
+  "position": 1,
+  "code": "TTS.AR.2011",
+  "description": "Gaffa giunzione asse",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": 4.0,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 163,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "20 MODULI 1303",
+  "position": 2,
+  "code": "10BZM8X150",
+  "description": "Bullone testa esagonale zn M8X150",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": 4.0,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 164,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "20 MODULI 1303",
+  "position": 3,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": 4.0,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 165,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "20 MODULI 1303",
+  "position": 4,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": 4.0,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 166,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "20 MODULI 1303",
+  "position": 5,
+  "code": "10DAZAM8",
+  "description": "Dado autobloccante M8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": 4.0,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 167,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "20 MODULI 1303",
+  "position": 6,
+  "code": "10BZM10X30",
+  "description": "Bullone testa esagonale zn M10X30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": 16.0,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 168,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "20 MODULI 1303",
+  "position": 7,
+  "code": "10ROND10",
+  "description": "Rondella zn 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": 16.0,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 169,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "20 MODULI 1303",
+  "position": 8,
+  "code": "10ROND10",
+  "description": "Rondella zn 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": 16.0,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 170,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "20 MODULI 1303",
+  "position": 9,
+  "code": "10DAZAM10",
+  "description": "Dado autobloccante M10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": 16.0,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 171,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "22 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.001.8700",
+  "description": "Asse lato motore 120x120x3 mm. lunghezza mt.8,70",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 172,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "22 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.001.8700.25",
+  "description": "Asse lato motore 120x120x2,5 mm. lunghezza mt.8,70",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 173,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "22 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.002.6150",
+  "description": "Asse esterno 120x120x3 mm. lunghezza mt.6,15",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 174,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "22 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.002.6150.25",
+  "description": "Asse esterno 120x120x2,5 mm. lunghezza mt.6,15",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 175,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "22 MODULI 1303",
+  "position": 1,
+  "code": "TTS.AR.2011",
+  "description": "Gaffa giunzione asse",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": 4.0,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 176,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "22 MODULI 1303",
+  "position": 2,
+  "code": "10BZM8X150",
+  "description": "Bullone testa esagonale zn M8X150",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": 4.0,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 177,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "22 MODULI 1303",
+  "position": 3,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": 4.0,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 178,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "22 MODULI 1303",
+  "position": 4,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": 4.0,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 179,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "22 MODULI 1303",
+  "position": 5,
+  "code": "10DAZAM8",
+  "description": "Dado autobloccante M8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": 4.0,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 180,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "22 MODULI 1303",
+  "position": 6,
+  "code": "10BZM10X30",
+  "description": "Bullone testa esagonale zn M10X30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": 16.0,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 181,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "22 MODULI 1303",
+  "position": 7,
+  "code": "10ROND10",
+  "description": "Rondella zn 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": 16.0,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 182,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "22 MODULI 1303",
+  "position": 8,
+  "code": "10ROND10",
+  "description": "Rondella zn 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": 16.0,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 183,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "22 MODULI 1303",
+  "position": 9,
+  "code": "10DAZAM10",
+  "description": "Dado autobloccante M10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": 16.0,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 184,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.001.8700",
+  "description": "Asse lato motore 120x120x3 mm. lunghezza mt.8,70",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 185,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.002.6756",
+  "description": "Asse esterno 120x120x3 mm. lunghezza mt.6,756",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 186,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.002.6756.25",
+  "description": "Asse esterno 120x120x2,5 mm. lunghezza mt.6,756",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 187,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.002.8645",
+  "description": "Asse esterno 120x120x3 mm. lunghezza mt.8,645",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 188,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.002.8645.25",
+  "description": "Asse esterno 120x120x2,5 mm. lunghezza mt.8,645",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 189,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": 1,
+  "code": "TTS.AR.2011",
+  "description": "Gaffa giunzione asse",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": 8.0,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 190,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": 2,
+  "code": "10BZM8X150",
+  "description": "Bullone testa esagonale zn M8X150",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": 8.0,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 191,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": 3,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": 8.0,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 192,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": 4,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": 8.0,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 193,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": 5,
+  "code": "10DAZAM8",
+  "description": "Dado autobloccante M8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": 8.0,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 194,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": 6,
+  "code": "10BZM10X30",
+  "description": "Bullone testa esagonale zn M10X30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": 32.0,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 195,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": 7,
+  "code": "10ROND10",
+  "description": "Rondella zn 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": 32.0,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 196,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": 8,
+  "code": "10ROND10",
+  "description": "Rondella zn 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": 32.0,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 197,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "36 MODULI 1303",
+  "position": 9,
+  "code": "10DAZAM10",
+  "description": "Dado autobloccante M10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": 32.0,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 198,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.001.8700",
+  "description": "Asse lato motore 120x120x3 mm. lunghezza mt.8,70",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 199,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.002.8250",
+  "description": "Primo asse centrale 120x120x3 mm. lunghezza mt.8,25",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 200,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.002.8250.25",
+  "description": "Primo asse centrale 120x120x2,5 mm. lunghezza mt.8,25",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 201,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.003.5000",
+  "description": "Secondo asse centrale 120x120x3 mm. lunghezza mt.5,000",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 202,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.003.5000.25",
+  "description": "Secondo asse centrale 120x120x2,5 mm. lunghezza mt.5,000",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 203,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.004.4800",
+  "description": "Asse esterno 120x120x3 mm. lunghezza mt.4,800",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 204,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": null,
+  "code": "TTS.AR.004.4800.25",
+  "description": "Asse esterno 120x120x2,5 mm. lunghezza mt.4,800",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 205,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": 1,
+  "code": "TTS.AR.2011",
+  "description": "Gaffa giunzione asse",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": 12.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 206,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": 2,
+  "code": "10BZM8X150",
+  "description": "Bullone testa esagonale zn M8X150",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": 12.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 207,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": 3,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": 12.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 208,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": 4,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": 12.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 209,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": 5,
+  "code": "10DAZAM8",
+  "description": "Dado autobloccante M8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": 12.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 210,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": 6,
+  "code": "10BZM10X30",
+  "description": "Bullone testa esagonale zn M10X30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": 16.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 211,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": 7,
+  "code": "10ROND10",
+  "description": "Rondella zn 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": 16.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 212,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": 8,
+  "code": "10ROND10",
+  "description": "Rondella zn 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": 16.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 213,
+  "assembly": "ASSI DI ROTAZIONE 1303",
+  "section": "40 MODULI 1303",
+  "position": 9,
+  "code": "10DAZAM10",
+  "description": "Dado autobloccante M10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 8.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": 16.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 214,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 1,
+  "code": "10BZM8X25",
+  "description": "Bullone testa esagonale zn M8X25",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 56.0,
+   "18": 80.0,
+   "20": 88.0,
+   "22": 96.0,
+   "36": 152.0,
+   "40": 168.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 215,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 2,
+  "code": "TTS.AR.3011",
+  "description": "Supporto a L superiore omega",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": 28.0,
+   "18": 40.0,
+   "20": 44.0,
+   "22": 48.0,
+   "36": 76.0,
+   "40": 84.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 216,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 3,
+  "code": "TTS.AR.3012",
+  "description": "Supporto a V inferiore omega",
+  "category": "Carpenteria metallica",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": 56.0,
+   "18": 40.0,
+   "20": 44.0,
+   "22": 48.0,
+   "36": 76.0,
+   "40": 84.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 217,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 4,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 56.0,
+   "18": 80.0,
+   "20": 88.0,
+   "22": 96.0,
+   "36": 152.0,
+   "40": 168.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 218,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 5,
+  "code": "10DAZAM8",
+  "description": "Dado autobloccante M8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 56.0,
+   "18": 80.0,
+   "20": 88.0,
+   "22": 96.0,
+   "36": 152.0,
+   "40": 168.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 219,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 6,
+  "code": "10BZM10X160",
+  "description": "Bullone testa esagonale zn M10X160",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 56.0,
+   "18": 80.0,
+   "20": 88.0,
+   "22": 96.0,
+   "36": 152.0,
+   "40": 168.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 220,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 7,
+  "code": "10ROND10",
+  "description": "Rondella zn 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 56.0,
+   "18": 80.0,
+   "20": 88.0,
+   "22": 96.0,
+   "36": 152.0,
+   "40": 168.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 221,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 8,
+  "code": "10DAZAM8",
+  "description": "Dado autobloccante M8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 56.0,
+   "18": 80.0,
+   "20": 88.0,
+   "22": 96.0,
+   "36": 152.0,
+   "40": 168.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 222,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 9,
+  "code": "10BZM6X150",
+  "description": "Bullone testa esagonale zn M6X150",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": 28.0,
+   "18": 40.0,
+   "20": 44.0,
+   "22": 48.0,
+   "36": 76.0,
+   "40": 336.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 223,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 10,
+  "code": "TTS.AR.3013",
+  "description": "Gaffa sotto omega",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": 14.0,
+   "18": 20.0,
+   "20": 22.0,
+   "22": 24.0,
+   "36": 38.0,
+   "40": 42.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 224,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 11,
+  "code": "10ROND6",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": 28.0,
+   "18": 40.0,
+   "20": 44.0,
+   "22": 48.0,
+   "36": 76.0,
+   "40": 84.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 225,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 12,
+  "code": "10DAZAM6",
+  "description": "Dado autobloccante M6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": 28.0,
+   "18": 40.0,
+   "20": 44.0,
+   "22": 48.0,
+   "36": 76.0,
+   "40": 84.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 226,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 13,
+  "code": "TTS.AR.3014",
+  "description": "Omega supporto pannello",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": 14.0,
+   "18": 40.0,
+   "20": 22.0,
+   "22": 48.0,
+   "36": 38.0,
+   "40": 42.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 227,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 13,
+  "code": "TTS.AR.3014.18",
+  "description": "Omega supporto pannello mm1,8",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 228,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 14,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 56.0,
+   "18": 80.0,
+   "20": 88.0,
+   "22": 96.0,
+   "36": 152.0,
+   "40": 168.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 229,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 15,
+  "code": "10ROND10",
+  "description": "Rondella zn 10",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 56.0,
+   "18": 80.0,
+   "20": 88.0,
+   "22": 96.0,
+   "36": 152.0,
+   "40": 168.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 230,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 16,
+  "code": "10ROND6",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": 28.0,
+   "18": 40.0,
+   "20": 44.0,
+   "22": 48.0,
+   "36": 76.0,
+   "40": 84.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 231,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 1,
+  "code": null,
+  "description": "Pannello fotovoltaico",
+  "category": "Moduli fotovoltaici",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": 12.0,
+   "18": 18.0,
+   "20": 20.0,
+   "22": 22.0,
+   "36": 36.0,
+   "40": 40.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 232,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 3,
+  "code": "10ROND8",
+  "description": "Rondella da 8 zn",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 12.0,
+   "18": 72.0,
+   "20": 80.0,
+   "22": 88.0,
+   "36": 144.0,
+   "40": 160.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 233,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 4,
+  "code": "10BZM8X25",
+  "description": "Bullone testa esagonale zn M8x25",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 48.0,
+   "18": 72.0,
+   "20": 80.0,
+   "22": 88.0,
+   "36": 144.0,
+   "40": 160.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 234,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 5,
+  "code": "10ROND8",
+  "description": "Rondella da 8 zn",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 48.0,
+   "18": 72.0,
+   "20": 80.0,
+   "22": 88.0,
+   "36": 144.0,
+   "40": 160.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 235,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 6,
+  "code": "10DADAZM8",
+  "description": "Dado autobloccante M8 zn",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": 48.0,
+   "18": 72.0,
+   "20": 80.0,
+   "22": 88.0,
+   "36": 144.0,
+   "40": 160.0
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 236,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 1,
+  "code": null,
+  "description": "Pannellino fotovoltaico optional",
+  "category": "Moduli fotovoltaici",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 237,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 3,
+  "code": "10ROND8",
+  "description": "Rondella da 8 zn",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 238,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 4,
+  "code": "10BZM8X25",
+  "description": "Bullone testa esagonale zn M8x25",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 239,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 5,
+  "code": "10ROND8",
+  "description": "Rondella da 8 zn",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 240,
+  "assembly": "KIT OMEGA+pannelli",
+  "section": null,
+  "position": 6,
+  "code": "10DADAZM8",
+  "description": "Dado autobloccante M8 zn",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 241,
+  "assembly": "KIT FINE CORSA",
+  "section": "1 KIT PER TRACKER",
+  "position": 1,
+  "code": "10BZM5X30",
+  "description": "Bullone testa esagonale zn M5x30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 242,
+  "assembly": "KIT FINE CORSA",
+  "section": "1 KIT PER TRACKER",
+  "position": 2,
+  "code": "10S-FC",
+  "description": "Sensore fine corsa elettrico",
+  "category": "Sensoristica e strumentazione",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 243,
+  "assembly": "KIT FINE CORSA",
+  "section": "1 KIT PER TRACKER",
+  "position": 3,
+  "code": "TTS.AR.5011",
+  "description": "Piastra ad L supporto fine corsa",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 244,
+  "assembly": "KIT FINE CORSA",
+  "section": "1 KIT PER TRACKER",
+  "position": 4,
+  "code": "10ROND5",
+  "description": "Rondella zn 5",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 245,
+  "assembly": "KIT FINE CORSA",
+  "section": "1 KIT PER TRACKER",
+  "position": 5,
+  "code": "10DAZAM5",
+  "description": "Dado M5 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 246,
+  "assembly": "KIT FINE CORSA",
+  "section": "1 KIT PER TRACKER",
+  "position": 6,
+  "code": "10BZM6X20",
+  "description": "Bullone testa esagonale zn M6X20",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 247,
+  "assembly": "KIT FINE CORSA",
+  "section": "1 KIT PER TRACKER",
+  "position": 7,
+  "code": "10ROND6",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 248,
+  "assembly": "KIT FINE CORSA",
+  "section": "1 KIT PER TRACKER",
+  "position": 9,
+  "code": "10ROND6",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 249,
+  "assembly": "KIT FINE CORSA",
+  "section": "1 KIT PER TRACKER",
+  "position": 10,
+  "code": "10DAZAM6",
+  "description": "Dado M6 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 250,
+  "assembly": "KIT FINE CORSA",
+  "section": "1 KIT PER TRACKER",
+  "position": 1,
+  "code": "10BZM16X25",
+  "description": "Bullone testa esagonale zn M16X25",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 251,
+  "assembly": "KIT FINE CORSA",
+  "section": "1 KIT PER TRACKER",
+  "position": 2,
+  "code": "10ROND16",
+  "description": "Rondella zn 16",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 252,
+  "assembly": "KIT FINE CORSA",
+  "section": "1 KIT PER TRACKER",
+  "position": 3,
+  "code": "TTS.AR.5012",
+  "description": "Leva battente sensore fine corsa",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 253,
+  "assembly": "KIT INCLINOMETRO",
+  "section": "1 KIT PER TRACKER",
+  "position": 1,
+  "code": "TTS.AR.4011",
+  "description": "Supporto superiore inclinometro",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 254,
+  "assembly": "KIT INCLINOMETRO",
+  "section": "1 KIT PER TRACKER",
+  "position": 2,
+  "code": "10BZM8X150",
+  "description": "Bullone testa esagonale zn M8X150",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 255,
+  "assembly": "KIT INCLINOMETRO",
+  "section": "1 KIT PER TRACKER",
+  "position": 3,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 256,
+  "assembly": "KIT INCLINOMETRO",
+  "section": "1 KIT PER TRACKER",
+  "position": 4,
+  "code": "TTS.AR.4012",
+  "description": "Supporto inferiore inclinometro",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 257,
+  "assembly": "KIT INCLINOMETRO",
+  "section": "1 KIT PER TRACKER",
+  "position": 5,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 258,
+  "assembly": "KIT INCLINOMETRO",
+  "section": "1 KIT PER TRACKER",
+  "position": 6,
+  "code": "10DAZAM8",
+  "description": "Dado M8 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 259,
+  "assembly": "KIT INCLINOMETRO",
+  "section": "1 KIT PER TRACKER",
+  "position": 7,
+  "code": "TK1024S",
+  "description": "Inclinometro",
+  "category": "Sensoristica e strumentazione",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 260,
+  "assembly": "KIT INCLINOMETRO",
+  "section": "1 KIT PER TRACKER",
+  "position": 8,
+  "code": "M5X30 8.8 ISO1207",
+  "description": "Bullone testa esagonale con intaglio M5x30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 261,
+  "assembly": "KIT INCLINOMETRO",
+  "section": "1 KIT PER TRACKER",
+  "position": 9,
+  "code": "10ROND5",
+  "description": "Rondella zn 5",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 262,
+  "assembly": "KIT INCLINOMETRO",
+  "section": "1 KIT PER TRACKER",
+  "position": 10,
+  "code": "10DAZAM5",
+  "description": "Dado M5 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 263,
+  "assembly": "kit quadro motore",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PM.2011",
+  "description": "Angolare 30x30x4 lungo 370 mm. superiore",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 264,
+  "assembly": "kit quadro motore",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.2012",
+  "description": "Angolare 30x30x4 lungo 370 mm. inferiore",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 265,
+  "assembly": "kit quadro motore",
+  "section": null,
+  "position": 3,
+  "code": "10BZM6X30",
+  "description": "Bullone testa esagonale zn M6X30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 266,
+  "assembly": "kit quadro motore",
+  "section": null,
+  "position": 4,
+  "code": "10ROND6",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 267,
+  "assembly": "kit quadro motore",
+  "section": null,
+  "position": 5,
+  "code": "10ROND6",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 268,
+  "assembly": "kit quadro motore",
+  "section": null,
+  "position": 6,
+  "code": "10DAZAM6",
+  "description": "Dado M6 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 269,
+  "assembly": "kit quadro motore",
+  "section": null,
+  "position": 7,
+  "code": "TTS.PM.001.IPE140.22",
+  "description": "Pilastro motore trave ipe140 x 2220 con foratura alloggiamento quadro motore (standard)",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": true
+ },
+ {
+  "row": 270,
+  "assembly": "kit quadro motore",
+  "section": null,
+  "position": 8,
+  "code": "B04601",
+  "description": "Quadro in vetroresina Pedro VTR 01",
+  "category": "Quadristica ed elettrico",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 271,
+  "assembly": "kit quadro motore",
+  "section": null,
+  "position": 9,
+  "code": "10BZM8X25",
+  "description": "Bullone testa esagonale zn M8X25",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 272,
+  "assembly": "kit quadro motore",
+  "section": null,
+  "position": 10,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 273,
+  "assembly": "kit quadro motore",
+  "section": null,
+  "position": 11,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 274,
+  "assembly": "kit quadro motore",
+  "section": null,
+  "position": 12,
+  "code": "10DAZAM8",
+  "description": "Dado M8 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 275,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PM.001.IPE140.22.QC",
+  "description": "Pilastro motore trave ipe140 x 2220 con foratura alloggiamento quadro motore + quadro centralina meteo + quadro alimentazione centralina meteo",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 276,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PM.001.IPEA140.22.QC",
+  "description": "Pilastro motore trave ipea140 x 2220 con foratura alloggiamento quadro motore + quadro centralina meteo + quadro alimentazione centralina meteo (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 277,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PM.2011",
+  "description": "Angolare 30x30x4 lungo 370 mm. superiore",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 278,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 3,
+  "code": "10DAZAM6",
+  "description": "Dado M6 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 279,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 4,
+  "code": "10ROND6",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 280,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 5,
+  "code": "10ROND6",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 281,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 6,
+  "code": "10BZM6X25",
+  "description": "Bullone testa esagonale zn M6X30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 282,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 7,
+  "code": "TTS.PM.2012",
+  "description": "Angolare 30x30x4 lungo 370 mm. inferiore",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 283,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 8,
+  "code": "15T-JUNCTBOXIP65",
+  "description": "Box centralina meteo",
+  "category": "Quadristica ed elettrico",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 284,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 9,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 285,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 10,
+  "code": "10BZM8X25",
+  "description": "Bullone testa esagonale zn M8X25",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 286,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 11,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 287,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 12,
+  "code": "10DAZAM8",
+  "description": "Dado M8 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 288,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 13,
+  "code": "10BZM8X25",
+  "description": "Bullone testa esagonale zn M8X25",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 289,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 14,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 290,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 15,
+  "code": "TTS.PM.2012",
+  "description": "Angolare 30x30x4 lungo 370 mm. inferiore",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 291,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 16,
+  "code": "B04601",
+  "description": "Quadro in vetroresina Pedro VTR 01",
+  "category": "Quadristica ed elettrico",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": true
+ },
+ {
+  "row": 292,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 17,
+  "code": "B04601",
+  "description": "Quadro in vetroresina Pedro VTR 01",
+  "category": "Quadristica ed elettrico",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 293,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 18,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 294,
+  "assembly": "kit quadri centralina meteo",
+  "section": null,
+  "position": 19,
+  "code": "10DAZAM8",
+  "description": "Dado M8 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 295,
+  "assembly": "kit quadri area",
+  "section": null,
+  "position": 1,
+  "code": "TTS.PC.3011",
+  "description": "Angolare 40x40x4 lungo 869 mm. superiore",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 296,
+  "assembly": "kit quadri area",
+  "section": null,
+  "position": 2,
+  "code": "TTS.PC.3012",
+  "description": "Angolare 40x40x4 lungo 869 mm. inferiore",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 297,
+  "assembly": "kit quadri area",
+  "section": null,
+  "position": 3,
+  "code": "10BZM8X25",
+  "description": "Bullone testa esagonale zn M6X30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 298,
+  "assembly": "kit quadri area",
+  "section": null,
+  "position": 4,
+  "code": "10ROND8",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 299,
+  "assembly": "kit quadri area",
+  "section": null,
+  "position": 5,
+  "code": "10ROND8",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 300,
+  "assembly": "kit quadri area",
+  "section": null,
+  "position": 6,
+  "code": "10DAZAM8",
+  "description": "Dado M6 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 301,
+  "assembly": "kit quadri area",
+  "section": null,
+  "position": 7,
+  "code": "10BZM8X25",
+  "description": "Bullone testa esagonale zn M6X30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 302,
+  "assembly": "kit quadri area",
+  "section": null,
+  "position": 8,
+  "code": "10ROND8",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 303,
+  "assembly": "kit quadri area",
+  "section": null,
+  "position": 9,
+  "code": "10ROND8",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 304,
+  "assembly": "kit quadri area",
+  "section": null,
+  "position": 10,
+  "code": "10DAZAM8",
+  "description": "Dado M6 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 305,
+  "assembly": "kit quadri area",
+  "section": null,
+  "position": 11,
+  "code": "TTS.PC.3013",
+  "description": "Palo MAX lungo mt.2,150",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 306,
+  "assembly": "kit quadri area",
+  "section": null,
+  "position": 12,
+  "code": "TTS.PC.001.IPE140.23.FQA",
+  "description": "Pilastro cuscinetto trave ipe140 x mt. 2,30 con foratura alloggiamento quadro area",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": true
+ },
+ {
+  "row": 307,
+  "assembly": "kit quadri area",
+  "section": null,
+  "position": 12,
+  "code": "TTS.PC.001.IPEA140.23.FQA",
+  "description": "Pilastro cuscinetto trave ipea140 x mt. 2,30 con foratura alloggiamento quadro area (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 308,
+  "assembly": "kit quadri inverter",
+  "section": null,
+  "position": 1,
+  "code": "10BZM8X20",
+  "description": "Bullone testa esagonale zn M8X20",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 309,
+  "assembly": "kit quadri inverter",
+  "section": null,
+  "position": 2,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 310,
+  "assembly": "kit quadri inverter",
+  "section": null,
+  "position": 3,
+  "code": "TTS.PC.2011.1076",
+  "description": "Angolare 40x40x4 lungo 1076 mm. supporto inferiore",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 311,
+  "assembly": "kit quadri inverter",
+  "section": null,
+  "position": 4,
+  "code": "TTS.PC.2013",
+  "description": "Palo MAX lungo mt.2,040",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 312,
+  "assembly": "kit quadri inverter",
+  "section": null,
+  "position": 5,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 313,
+  "assembly": "kit quadri inverter",
+  "section": null,
+  "position": 6,
+  "code": "10DAZAM8",
+  "description": "Dado M8 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 314,
+  "assembly": "kit quadri inverter",
+  "section": null,
+  "position": 7,
+  "code": "10BZM8X30",
+  "description": "Bullone testa esagonale zn M8X30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 315,
+  "assembly": "kit quadri inverter",
+  "section": null,
+  "position": 8,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 316,
+  "assembly": "kit quadri inverter",
+  "section": null,
+  "position": 9,
+  "code": "TTS.PC.2012.1076",
+  "description": "Angolare 40x40x4 lungo1076 mm. supporto superiore",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 317,
+  "assembly": "kit quadri inverter",
+  "section": null,
+  "position": 10,
+  "code": "TTS.PC.001.IPE140.23.FI",
+  "description": "Pilastro cuscinetto trave ipe140 x mt. 2,30 con foratura alloggiamento inverter",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 318,
+  "assembly": "kit quadri inverter",
+  "section": null,
+  "position": 10,
+  "code": "TTS.PC.001.IPEA140.23.FI",
+  "description": "Pilastro cuscinetto trave ipea140 x mt. 2,30 con foratura alloggiamento inverter (alleggerita)",
+  "category": "Carpenteria metallica",
+  "qty_base": 0.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 319,
+  "assembly": "kit quadri inverter",
+  "section": null,
+  "position": 11,
+  "code": "10ROND8",
+  "description": "Rondella zn 8",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 320,
+  "assembly": "kit quadri inverter",
+  "section": null,
+  "position": 12,
+  "code": "10DAZAM8",
+  "description": "Dado M8 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 4.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 321,
+  "assembly": "sensori meteo",
+  "section": "sensori meteo, al solito da stabilire con peppe",
+  "position": 1,
+  "code": "TTS.SM.001",
+  "description": "Piatto 50X5X230 supporto sensori",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 322,
+  "assembly": "sensori meteo",
+  "section": "sensori meteo, al solito da stabilire con peppe",
+  "position": 2,
+  "code": "15T-PIRANOMETRO",
+  "description": "Piranometro",
+  "category": "Sensoristica e strumentazione",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 323,
+  "assembly": "sensori meteo",
+  "section": "sensori meteo, al solito da stabilire con peppe",
+  "position": 3,
+  "code": "15T-TERMARIA",
+  "description": "Termometro Aria_ mSTA.l",
+  "category": "Sensoristica e strumentazione",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 324,
+  "assembly": "sensori meteo",
+  "section": "sensori meteo, al solito da stabilire con peppe",
+  "position": 4,
+  "code": "10ROND6",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 325,
+  "assembly": "sensori meteo",
+  "section": "sensori meteo, al solito da stabilire con peppe",
+  "position": 5,
+  "code": "10BZM6X30",
+  "description": "Bullone testa esagonale zn M6X30",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 326,
+  "assembly": "sensori meteo",
+  "section": "sensori meteo, al solito da stabilire con peppe",
+  "position": 4,
+  "code": "10ROND6",
+  "description": "Rondella zn 6",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 327,
+  "assembly": "sensori meteo",
+  "section": "sensori meteo, al solito da stabilire con peppe",
+  "position": 6,
+  "code": "10DAZAM6",
+  "description": "Dado M6 autobloccante",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 328,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 1,
+  "code": "15T-TERMCONTP10",
+  "description": "Termometro a contatto P100_STC-i",
+  "category": "Sensoristica e strumentazione",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 329,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 2,
+  "code": null,
+  "description": "Pannello fotovoltaico",
+  "category": "Moduli fotovoltaici",
+  "qty_base": null,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 330,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 3,
+  "code": "TTS.SM.002",
+  "description": "Piatto 30X3X193 leva sensore temperatura pannello",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 331,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 4,
+  "code": null,
+  "description": "Omega alloggiamento kit sensore termometro a contatto",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 332,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 5,
+  "code": "10ROND5",
+  "description": "Rondella ZN da 5",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 333,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 6,
+  "code": "10BZM5X20",
+  "description": "Bullone testa esagonale zn M5x20",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 334,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 7,
+  "code": "10ROND5",
+  "description": "Rondella ZN da 5",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 335,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 8,
+  "code": "10DAZAM5",
+  "description": "Dado zincato autobloc. M5",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 336,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 9,
+  "code": "10BZM5X20",
+  "description": "Bullone testa esagonale zn M5x20",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 337,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 10,
+  "code": "10DAZAM5",
+  "description": "Dado zincato autobloc. M5",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 338,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 11,
+  "code": "10ROND5",
+  "description": "Rondella ZN da 5",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 339,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 12,
+  "code": "10BZM5X20",
+  "description": "Bullone testa esagonale zn M5x20",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 340,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 13,
+  "code": "10ROND5",
+  "description": "Rondella ZN da 5",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 341,
+  "assembly": "sensori meteo",
+  "section": "kit sensore temperatura pannello",
+  "position": 14,
+  "code": "10DAZAM5",
+  "description": "Dado zincato autobloc. M5",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 342,
+  "assembly": "sensori meteo",
+  "section": "da stabilre con peppe quantità e ubicazione",
+  "position": 1,
+  "code": "TTS.SM.003",
+  "description": "Asta supporto anemometro",
+  "category": "Carpenteria metallica",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 343,
+  "assembly": "sensori meteo",
+  "section": "da stabilre con peppe quantità e ubicazione",
+  "position": 2,
+  "code": "15T-SENSVELVEN",
+  "description": "Anemometro",
+  "category": "Sensoristica e strumentazione",
+  "qty_base": 1.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ },
+ {
+  "row": 344,
+  "assembly": "sensori meteo",
+  "section": "2 tappi per ogni tracker",
+  "position": 1,
+  "code": "06TAP120X120",
+  "description": "Tappo profilato 120x120",
+  "category": "Bulloneria e minuteria",
+  "qty_base": 2.0,
+  "qty_by_config": {
+   "12": null,
+   "18": null,
+   "20": null,
+   "22": null,
+   "36": null,
+   "40": null
+  },
+  "already_loaded": false
+ }
+]
